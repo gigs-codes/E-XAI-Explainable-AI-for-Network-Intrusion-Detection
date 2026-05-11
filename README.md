@@ -2,7 +2,7 @@
 
 An explainable, high-performance intrusion detection framework that evaluates black-box machine learning models using SHAP and LIME for transparent and trustworthy security analytics.
 
-📄 **This project is based on a peer-reviewed research paper published at an international conference (ICDSA 2025).**
+
 
 ---
 
@@ -97,8 +97,3 @@ These results demonstrate excellent robustness, generalization, and real-world a
 
 If you use this work, please cite:
 
-
-```text
-Ankit Kumar et al.,
-"E-XAI: Evaluating Black-Box Explainable AI Frameworks for Network Intrusion Detection",
-Proceedings of ICDSA 2025.
